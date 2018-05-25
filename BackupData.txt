@@ -1,0 +1,2 @@
+C:\Documents\ExampleSourcefile.php************|*D:\Backups
+C:\Documents\Folder\AnotherExample.jpg********|*D:\Backups\Photos
