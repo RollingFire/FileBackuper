@@ -1,2 +1,1 @@
-# FileBackuper
-Backs up specified files and folders to a location of your choosing.
+Because of the slow internet where I live, I do not use any cloud computing or storage. I want to keep fairly upto date backups of the important data on my computer, so I use an enternal hard drive. The problem comes what it is time to backup all the files. I would have to manually find and copy each file which is time consuming. So I wrote this program that does all the heavy lifting for me. All I have to do now is conect my hard drive and run this program, and the files are backed up for me.
