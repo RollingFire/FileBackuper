@@ -15,7 +15,6 @@ Discription: Reads the file in the working directory named "BackupData.txt"
 '''
 
 import os
-import errno
 import shutil
 
 def pathSplit(path):
