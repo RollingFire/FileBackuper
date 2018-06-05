@@ -1,2 +1,4 @@
+Exclude|C:\Documents\NotThisFile.pdf
+
 C:\Documents\ExampleSourcefile.php************|*D:\Backups
 C:\Documents\Folder\AnotherExample.jpg********|*D:\Backups\Photos
