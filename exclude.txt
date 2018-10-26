@@ -1,0 +1,3 @@
+FileBackuper V3 Exclude File
+
+Some Sub Directory\example.jpeg
